@@ -2,9 +2,9 @@
   "name": "clipboardhealth-challenge",
   "version": "1.0.0",
   "description": "",
-  "main": "challenge.js",
+  "main": "solution.js",
   "scripts": {
-    "test": "node_modules/.bin/jest"
+    "test": "jest"
   },
   "author": "Cristian Pelegrin",
   "license": "ISC",
